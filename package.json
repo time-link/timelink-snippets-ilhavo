@@ -1,16 +1,24 @@
 {
   "name": "timelink-snippets-ilhavo",
-  "displayName": "timelink-snippets-ilhavo",
+  "displayName": "Time Link Snippets Ilhavo (Paroquiais)",
   "description": "Snippets extension with Parish registers (actos paroquiais) for usage with Time Link. Time Link (formerly MHK / TimeLink) is a web application that manages databases for micro-historical research.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "publisher": "time-link",
   "engines": {
     "vscode": "^1.70.0"
   },
+  "keywords": [
+    "TimeLink",
+    "MHK",
+    "Kleio",
+    "Time Link",
+    "Paroquiais"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/time-link/timelink-snippets-ilhavo.git"
   },
+  "icon": "resources/icon.png",
   "categories": [
     "Snippets"
   ],
